@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ExoTest</string>
+    <string name="home_btn">Check weather</string>
+    <string name="welcome_exo">Exominds Weather</string>
+    <string name="check_progress">Checking weather in progress</string>
+    <string name="restart">Restart</string>
+</resources>
